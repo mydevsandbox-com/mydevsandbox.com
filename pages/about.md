@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/
 title: About
+published: false
 ---
 
 ## Placeholder
