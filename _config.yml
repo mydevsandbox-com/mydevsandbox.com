@@ -1,0 +1,31 @@
+# mydevsandbox.com
+
+title: MyDevSandbox
+# email:
+description: |
+  MyDevSandbox.com
+baseurl: ""
+url: "http://mydevsandbox.com"
+# twitter_username:
+# github_username:
+
+# theme:
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .gitignore
+  - .ruby*
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - CNAME
