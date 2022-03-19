@@ -3,11 +3,12 @@
 title: MyDevSandbox
 # email:
 description: |
-  MyDevSandbox.com
+  Playground space for working with code examples and mock-ups.
 baseurl: ""
-url: "http://mydevsandbox.com"
+url: "https://mydevsandbox.com"
 # twitter_username:
-# github_username:
+github_username: mydevsandbox-com
+copyright: mydevsandbox.com 2022
 
 # theme:
 plugins:

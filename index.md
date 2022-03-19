@@ -2,8 +2,6 @@
 layout: home
 ---
 
-MyDevSandbox dot com
-
 ```shell
 functional=yes
 
