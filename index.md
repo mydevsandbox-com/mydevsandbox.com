@@ -2,7 +2,10 @@
 layout: home
 ---
 
+![logo](/assets/sandbox-img.png)
+
 ```shell
+
 functional=yes
 
 if [[ -n ${perfect} ]] ; then
