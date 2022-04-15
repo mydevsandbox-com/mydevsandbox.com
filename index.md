@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![logo](/assets/sandbox-img.png)
+<!-- ![logo](/assets/sandbox-img.png) -->
 
 ```shell
 
