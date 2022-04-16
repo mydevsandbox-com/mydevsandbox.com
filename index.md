@@ -5,12 +5,15 @@ layout: home
 <!-- ![logo](/assets/sandbox-img.png) -->
 
 ```shell
+#!/bin/bash
 
-functional=yes
+perfect=no
 
-if [[ -n ${perfect} ]] ; then
-  echo $perfect
+if [[ ${perfect} == yes ]] ; then
+  state='perfect'
 else
-  echo $functional
+  state='fine'
 fi
+
+echo "This is ${state}."
 ```
