@@ -1,9 +1,11 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-Gemfile.lock
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
 
 # Created by https://www.toptal.com/developers/gitignore/api/ruby,visualstudiocode,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=ruby,visualstudiocode,macos

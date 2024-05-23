@@ -1,0 +1,18 @@
+baseURL = 'https://mydevsandbox.com/'
+languageCode = 'en-us'
+title = 'MyDevSandbox'
+theme = "m10c"
+
+[params]
+  author = 'mydevsandbox.com'
+  description = 'Playground space for working with code examples and mock-ups.'
+  avatar = 'images/sandbox-img.png'
+
+
+[params.style]
+  primaryColor = "#75c5ec"
+
+[[params.social]]
+  icon = "github"
+  name = "GitHub"
+  url = "https://github.com/mydevsandbox-com"
